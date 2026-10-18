@@ -12,18 +12,17 @@ Windows 实时 AI 变声，声音在本机处理。原项目名称为 MintVC / �
 
 ## 当前下载
 
-- **Mintaria 5.1.2 正式版**：[GitHub 分卷下载](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.2) · [夸克完整包](https://pan.quark.cn/s/1221d36e36a6) · Google Drive 镜像待同步。Windows x64 / CUDA12.8，完整包约 2.61 GiB。
-- **5.1.1 正式版（历史版本）**：[v5.1.1](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.1)。
-- **5.1 正式版（历史版本）**：[v5.1.0](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.0)。
-- **5.0 beta（历史测试版）**：[历史版本与下载](https://github.com/ysuhao/Mintaria/releases/tag/v5.0.0-beta)。
+**Mintaria 5.1.2 · Mintaria Setup**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包](https://pan.quark.cn/s/518991319dae) · [GitHub 六分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.2)。Google Drive 镜像暂缓同步。
 
-GitHub 的 5.1.2 安装包分为 6 个分卷，下载全部分卷与 `Merge-Mintaria.cmd`，放在同一新文件夹后运行合并脚本。夸克可下载完整 EXE，Google Drive 镜像待同步。
+Windows x64 / CUDA12.8，完整包 2,810,785,176 字节（约 2.62 GiB）。双击 `Mintaria Setup.exe`，选择新的空目录安装，默认创建桌面 Mintaria 快捷方式；无需另装 Python，请保留旧版目录。
 
-完整解压到新的空文件夹，运行 `MintVC/MintVC.exe`。无需安装 Python，请保留旧目录；`Source code.zip` 不是可运行客户端。
+GitHub 用户下载六个 `Mintaria.Setup.exe.001`–`.006` 分卷和 `Merge-Mintaria-Setup.cmd` 到同一文件夹，运行合并工具校验后生成 `Mintaria Setup.exe`，再双击安装。完整包校验见 `Mintaria-Setup-SHA256SUMS.txt`。
 
-5.1.2 修复本机服务冒充、引擎访问绕过、验证码限流顺序、会员到期复核及已有授权租约同步。本机连接使用每次启动独立的 TLS 证书，网关与引擎分别认证；保留 5.1.1 的音频稳定性改进。
+SHA256：`7bbadacf625e576928d0cb684dc337ad78afd5fa39ba312c0a56b4fc11945587`
 
-默认附带免费音色风妈，其他音色单独下载。普通 `.pth` 仍兼容，受保护的 `.mintpth` 需要账号登录及授权。持续算力不足或极端系统抢占时仍可能断音或跳过音频。
+新版安装向导支持品牌插画、按钮动画与可关闭的音效。软件内容仍为已验证的 5.1.2：修复本机服务身份认证、引擎访问控制、验证码限流及到期授权同步，保留 5.1.1 音频稳定性改进。默认附带免费音色风妈，其他音色单独下载。
+
+旧版公开安装包已由新版替代，历史发行说明保留供查阅。`Source code.zip` 不是可运行客户端。
 
 ## 版本列表
 

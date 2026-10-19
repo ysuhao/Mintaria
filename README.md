@@ -4,7 +4,6 @@ Windows 实时 AI 变声，声音在本机处理。原项目名称为 MintVC / �
 
 [官网与音色库](https://mintaria.mintryu.com/) · [全部版本与更新记录](https://github.com/ysuhao/Mintaria/releases)
 
-## 一个项目，持续更新
 
 所有历史版本和后续更新统一发布在本仓库的 **Releases** 中。点击页面右上角 **Star** 即可收藏整个 Mintaria 项目，无需为每个版本重复收藏。需要更新通知可选择 **Watch → Custom → Releases**。
 
@@ -43,10 +42,6 @@ Google Drive 镜像继续暂缓同步。历史发行说明保留供查阅。
 | [v1.0.0](https://github.com/ysuhao/Mintaria/releases/tag/v1.0.0) | 正式版 | MintVCver1.0 |
 
 测试版单独标记为 Pre-release，后续更新继续发布在同一仓库。GitHub 的 Latest 指向最新正式发行版，因此目前仍为 2.1；需要 5.0 beta 请使用上面的测试版入口。
-
-## 旧链接与旧客户端
-
-原 `ysuhao/MintVC` 网页地址由 GitHub 跳转到本项目。部分旧客户端会严格校验旧仓库的更新元数据路径，改名后可能忽略更新信息；遇到这种情况，请从本页或官网下载完整包。5.0 beta 未发布自动更新。
 
 ## 使用与许可
 

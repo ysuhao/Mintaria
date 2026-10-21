@@ -11,7 +11,7 @@ Windows 实时 AI 变声，声音在本机处理。原项目名称为 MintVC / �
 
 ## 当前下载
 
-**Mintaria 5.1.5 正式版**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包与升级补丁](https://pan.quark.cn/s/8310913db556) · [GitHub 6 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.5)。
+**Mintaria 5.1.5 正式版**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包与升级补丁](https://pan.quark.cn/s/8310913db556) · [GitHub 6 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.5) · [Google Drive 完整包镜像](https://drive.google.com/drive/folders/1v4eDxKA7s9Da9a18TjcE-luahkp1EE2w)。
 
 Windows x64 / CUDA 12.8。完整包 2,861,433,245 字节，双击 `Mintaria Setup.exe`，选择新的空目录安装，默认创建桌面快捷方式。请保留旧版目录，无需另装 Python。已安装 5.1.4 的用户也可在夸克下载 `Mintaria-5.1.4-to-5.1.5.zip`，在软件内「软件更新」选择补丁升级。
 
@@ -21,7 +21,7 @@ Windows x64 / CUDA 12.8。完整包 2,861,433,245 字节，双击 `Mintaria Setu
 
 SHA256：`0b22466ae69ceadb1d8bcbfe0062c7cb0aa9038be27cf4ab04aa56c323d142fa`
 
-Google Drive 镜像继续暂缓同步。历史发行说明保留供查阅。
+Google Drive 镜像提供与夸克相同的完整安装包（含 SHA256SUMS 与 FFmpeg 许可说明）。历史发行说明保留供查阅。
 
 ## 版本列表
 

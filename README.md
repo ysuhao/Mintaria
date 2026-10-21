@@ -11,15 +11,15 @@ Windows 实时 AI 变声，声音在本机处理。原项目名称为 MintVC / �
 
 ## 当前下载
 
-**Mintaria 5.1.4 正式版**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包与升级补丁](https://pan.quark.cn/s/172038c2f23b) · [GitHub 6 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.4)。
+**Mintaria 5.1.5 正式版**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包与升级补丁](https://pan.quark.cn/s/8310913db556) · [GitHub 6 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.5)。
 
-Windows x64 / CUDA 12.8。完整包 2,850,582,252 字节，双击 `Mintaria Setup.exe`，选择新的空目录安装，默认创建桌面快捷方式。请保留旧版目录，无需另装 Python。已安装 5.1.3 的用户也可在夸克下载 `Mintaria-5.1.3-to-5.1.4.zip`，在软件内「软件更新」选择补丁升级。
+Windows x64 / CUDA 12.8。完整包 2,861,433,245 字节，双击 `Mintaria Setup.exe`，选择新的空目录安装，默认创建桌面快捷方式。请保留旧版目录，无需另装 Python。已安装 5.1.4 的用户也可在夸克下载 `Mintaria-5.1.4-to-5.1.5.zip`，在软件内「软件更新」选择补丁升级。
 
-本版更新账户菜单的邀请码界面，并新增「邀请人」显示；注册页可选填邀请码。音频引擎与 224 款音色目录沿用 5.1.3。
+本版修复部分电脑注册或登录时「无法获取验证码：账号服务安全连接失败」，并新增 7 款 abbott 音色试听（FFmpeg 后端，LGPL 许可见发行页附件）。音频引擎与 224 款音色目录沿用 5.1.4。
 
 默认附带风妈；其他模型在软件内下载后导入。GitHub 用户请下载全部 6 个 `Mintaria.Setup.exe.001`–`.006` 分卷与 `Merge-Mintaria-Setup.cmd`，合并并校验后运行安装包。
 
-SHA256：`46b6c29f70c76b20acca0991a49f5361a10da455df4e7ef537f7d12a180142b8`
+SHA256：`0b22466ae69ceadb1d8bcbfe0062c7cb0aa9038be27cf4ab04aa56c323d142fa`
 
 Google Drive 镜像继续暂缓同步。历史发行说明保留供查阅。
 

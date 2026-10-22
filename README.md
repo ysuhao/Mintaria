@@ -28,19 +28,19 @@
 
 ## 当前下载
 
-**Mintaria 5.1.5 正式版（NVIDIA 显卡版）**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包与升级补丁](https://pan.quark.cn/s/8310913db556) · [GitHub 6 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.5) · [Google Drive 完整包镜像](https://drive.google.com/drive/folders/1v4eDxKA7s9Da9a18TjcE-luahkp1EE2w)。
+**Mintaria 5.3.0 正式版（NVIDIA 显卡版）**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包与升级补丁](https://pan.quark.cn/s/449276708cca) · [GitHub 6 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v5.3.0)。
 
 **AMD/Intel 显卡版 Beta 0.1（测试版）**：[夸克下载](https://pan.quark.cn/s/733cdaf0e964) · [GitHub 预发布](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.5-amd-intel-beta0.1)。DirectML 推理，适用于支持 DirectX 12 的 AMD/Intel 显卡；尚未在 AMD/Intel 显卡上完成验证，请安装到新的空目录，不要覆盖 NVIDIA 版。
 
-Windows x64 / CUDA 12.8。完整包 2,861,433,245 字节，双击 `Mintaria Setup.exe`，选择新的空目录安装，默认创建桌面快捷方式。请保留旧版目录，无需另装 Python。已安装 5.1.4 的用户也可在夸克下载 `Mintaria-5.1.4-to-5.1.5.zip`，在软件内「软件更新」选择补丁升级。
+Windows x64 / CUDA 12.8。完整包 2,926,724,494 字节，双击 `Mintaria Setup.exe`，选择新的空目录安装，默认创建桌面快捷方式。请保留旧版目录，无需另装 Python。已安装 5.1.5 的用户也可在夸克下载 `Mintaria-5.1.5-to-5.3.0.zip`，在软件内「软件更新」选择补丁升级。
 
-本版修复部分电脑注册或登录时「无法获取验证码：账号服务安全连接失败」，并新增 7 款 abbott 音色试听（FFmpeg 后端，LGPL 许可见发行页附件）。音频引擎与 224 款音色目录沿用 5.1.4。
+本版把账户移到左上角的抽屉（会员充值、已购音色、邀请码、修改密码、技术支持集中在一处，可更换头像），联系客服改为由官方随时更新的文字，主界面新增滚动公告，abbott风系列新增 25 款音色（音色目录共 249 款）。音频引擎与运行环境沿用 5.1.5。
 
 默认附带风妈；其他模型在软件内下载后导入。GitHub 用户请下载全部 6 个 `Mintaria.Setup.exe.001`–`.006` 分卷与 `Merge-Mintaria-Setup.cmd`，合并并校验后运行安装包。
 
-SHA256：`0b22466ae69ceadb1d8bcbfe0062c7cb0aa9038be27cf4ab04aa56c323d142fa`
+SHA256：`8a79fe631858705a73351f60bf7cd6ba9778dd17b3ea39f76c3a418fdd7b95ce`
 
-Google Drive 镜像提供与夸克相同的完整安装包（含 SHA256SUMS 与 FFmpeg 许可说明）。历史发行说明保留供查阅。
+Google Drive 镜像暂未同步 5.3.0。历史发行说明保留供查阅。
 
 ## 常见问题
 

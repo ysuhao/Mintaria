@@ -28,7 +28,9 @@
 
 ## 当前下载
 
-**Mintaria 5.1.5 正式版**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包与升级补丁](https://pan.quark.cn/s/8310913db556) · [GitHub 6 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.5) · [Google Drive 完整包镜像](https://drive.google.com/drive/folders/1v4eDxKA7s9Da9a18TjcE-luahkp1EE2w)。
+**Mintaria 5.1.5 正式版（NVIDIA 显卡版）**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包与升级补丁](https://pan.quark.cn/s/8310913db556) · [GitHub 6 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.5) · [Google Drive 完整包镜像](https://drive.google.com/drive/folders/1v4eDxKA7s9Da9a18TjcE-luahkp1EE2w)。
+
+**AMD/Intel 显卡版 Beta 0.1（测试版）**：[夸克下载](https://pan.quark.cn/s/733cdaf0e964) · [GitHub 预发布](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.5-amd-intel-beta0.1)。DirectML 推理，适用于支持 DirectX 12 的 AMD/Intel 显卡；尚未在 AMD/Intel 显卡上完成验证，请安装到新的空目录，不要覆盖 NVIDIA 版。
 
 Windows x64 / CUDA 12.8。完整包 2,861,433,245 字节，双击 `Mintaria Setup.exe`，选择新的空目录安装，默认创建桌面快捷方式。请保留旧版目录，无需另装 Python。已安装 5.1.4 的用户也可在夸克下载 `Mintaria-5.1.4-to-5.1.5.zip`，在软件内「软件更新」选择补丁升级。
 

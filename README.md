@@ -28,19 +28,19 @@
 
 ## 当前下载
 
-**Mintaria 5.7.2 正式版（NVIDIA 显卡版）**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包与升级补丁](https://pan.quark.cn/s/f2ec8f0477d2) · [GitHub 6 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v5.7.2)。
+**Mintaria 6.0.0 正式版（NVIDIA 显卡版）**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包](https://pan.quark.cn/s/ea44c6485011) · [GitHub 6 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v6.0.0)。
 
 **AMD/Intel 显卡版 Beta 0.1（测试版）**：[夸克下载](https://pan.quark.cn/s/733cdaf0e964) · [GitHub 预发布](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.5-amd-intel-beta0.1)。DirectML 推理，适用于支持 DirectX 12 的 AMD/Intel 显卡；尚未在 AMD/Intel 显卡上完成验证，请安装到新的空目录，不要覆盖 NVIDIA 版。
 
-Windows x64 / CUDA 12.8。完整包 2,926,802,821 字节：夸克下载 `萌音安装包-5.7.2.exe`（GitHub 分卷合并后为 `Mintaria Setup.exe`，同一文件），双击选择新的空目录安装，默认创建桌面快捷方式。请保留旧版目录，无需另装 Python。已安装 5.7.1、5.7.0、5.5.0、5.3.0 或 5.1.5 的用户也可在夸克下载 `萌音升级补丁-5.7.1升级到5.7.2.zip`、`萌音升级补丁-5.7.0升级到5.7.2.zip`、`萌音升级补丁-5.5.0升级到5.7.2.zip`、`萌音升级补丁-5.3.0升级到5.7.2.zip`、`萌音升级补丁-5.1.5升级到5.7.2.zip`，在软件内「软件更新」选择补丁升级。
+Windows x64 / CUDA 12.8。完整包 2,926,845,114 字节：夸克下载 `萌音安装包-6.0.0.exe`（GitHub 分卷合并后为 `Mintaria Setup.exe`，同一文件），双击选择新的空目录安装，默认创建桌面快捷方式。请保留旧版目录，无需另装 Python。本版不提供升级补丁，已安装旧版本的用户请下载完整安装包安装到新的空目录。
 
-本版付款窗口只显示微信支付；付款后未自动开通时直接显示客服联系方式；限期会员也可单独永久购买音色。其余功能与 5.7.1 相同，运行环境沿用 5.1.5。
+本版是全新的付款页面：一个窗口里左边选方案、右边直接扫微信付款码；从音色进入时，单买和包含它的会员放在一起比较。Prestige 单个音色永久购买价调整为 ¥588。其余功能与 5.7.2 相同，运行环境沿用 5.1.5。
 
 默认附带风妈；其他模型在软件内下载后导入。GitHub 用户请下载全部 6 个 `Mintaria.Setup.exe.001`–`.006` 分卷与 `Merge-Mintaria-Setup.cmd`，合并并校验后运行安装包。
 
-SHA256：`2b121396fe9bbc1f3a68ad664d84c2e214c2c9a0543306bc9f8f87cd64a04d66`
+SHA256：`c249ec322d0a2257ab38ae781de5588dc1c935e4080a86537113f5782a31a9cd`
 
-Google Drive 镜像暂未同步 5.7.2。历史发行说明保留供查阅。
+Google Drive 镜像暂未同步 6.0.0。历史发行说明保留供查阅。
 
 ## 常见问题
 

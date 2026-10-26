@@ -28,19 +28,19 @@
 
 ## 当前下载
 
-**Mintaria 6.1.0 正式版（NVIDIA 显卡版）**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包](https://pan.quark.cn/s/a550bb23fab4) · [GitHub 6 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v6.1.0)。
+**Mintaria 6.2.0 正式版（NVIDIA 显卡版）**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包与升级补丁](https://pan.quark.cn/s/8af008cc53c2) · [GitHub 6 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v6.2.0)。
 
 **AMD/Intel 显卡版 Beta 0.1（测试版）**：[夸克下载](https://pan.quark.cn/s/733cdaf0e964) · [GitHub 预发布](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.5-amd-intel-beta0.1)。DirectML 推理，适用于支持 DirectX 12 的 AMD/Intel 显卡；尚未在 AMD/Intel 显卡上完成验证，请安装到新的空目录，不要覆盖 NVIDIA 版。
 
-Windows x64 / CUDA 12.8。完整包 3,121,575,886 字节：夸克下载 `萌音安装包-6.1.0.exe`（GitHub 分卷合并后为 `Mintaria Setup.exe`，同一文件），双击选择新的空目录安装，默认创建桌面快捷方式。请保留旧版目录，无需另装 Python。本版不提供升级补丁，已安装旧版本的用户请下载完整安装包安装到新的空目录。
+Windows x64 / CUDA 12.8。完整包 3,121,558,333 字节：夸克下载 `萌音安装包-6.2.0.exe`（GitHub 分卷合并后为 `Mintaria Setup.exe`，同一文件），双击选择新的空目录安装，默认创建桌面快捷方式。请保留旧版目录，无需另装 Python。已安装 6.1.0 的用户可在夸克下载 `萌音升级补丁-6.1.0升级到6.2.0.zip`，在软件内「软件更新」选择补丁升级。更早的版本请下载完整安装包安装到新的空目录。
 
-本版新增 52 款音色（萌妹系列 17 款、精品女声 25 款、精品男声 10 款），变声中账号服务偶尔连不上时不再被马上中断，付款后关掉付款窗口已购音色立刻解锁，顶部公告每次打开都会刷新。运行环境沿用 5.1.5。
+本版新增登录窗口的「找回密码」，音色展示改为系列卡包加悬浮滑轨的卡片，Pro 天卡旁注明可补差价；网络较慢时账号检查更耐心，检查更新的提示更准确。运行环境沿用 5.1.5。
 
 默认附带风妈；其他模型在软件内下载后导入。GitHub 用户请下载全部 6 个 `Mintaria.Setup.exe.001`–`.006` 分卷与 `Merge-Mintaria-Setup.cmd`，合并并校验后运行安装包。
 
-SHA256：`f58ad678bf743f440b3dc957d14ddd1920909a02a94795b70219a46bc1614679`
+SHA256：`409c5c13b4af06441389ff6855129e55b25486e258357b28a68ee3a5e9f0ba77`
 
-Google Drive 镜像暂未同步 6.1.0。历史发行说明保留供查阅。
+Google Drive 镜像暂未同步 6.2.0。历史发行说明保留供查阅。
 
 ## 常见问题
 

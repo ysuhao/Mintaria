@@ -30,7 +30,7 @@
 
 **Mintaria 7.0.0 正式版（NVIDIA 显卡版）**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包](https://pan.quark.cn/s/a0b0b17a9cd2) · [GitHub 6 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v7.0.0)。
 
-**AMD/Intel 显卡版 Beta（AMD 6.2.1 测试版）**：[夸克下载](https://pan.quark.cn/s/e9ab18b65dcd) · [GitHub 3 分卷预发布](https://github.com/ysuhao/Mintaria/releases/tag/v6.2.1-amd)。DirectML 推理，适用于支持 DirectX 12 的 AMD 和 Intel 显卡；尚未在 AMD/Intel 显卡上完成验证，请安装到新的空目录，不要覆盖 NVIDIA 版。
+**AMD/Intel 显卡版 Beta（AMD 7.0.0 测试版）**：[夸克下载](https://pan.quark.cn/s/9b946fe9b5fd) · [GitHub 3 分卷预发布](https://github.com/ysuhao/Mintaria/releases/tag/v7.0.0-amd)。DirectML 推理，适用于支持 DirectX 12 的 AMD 和 Intel 显卡；尚未在 AMD/Intel 显卡上完成验证，请安装到新的空目录，不要覆盖 NVIDIA 版。
 
 Windows x64 / CUDA 12.8。完整包 3,121,887,120 字节：夸克下载 `萌音安装包-7.0.0.exe`（GitHub 分卷合并后为 `Mintaria Setup.exe`，同一文件），双击选择新的空目录安装，默认创建桌面快捷方式。请保留旧版目录，无需另装 Python。本版没有升级补丁，所有旧版本都请下载完整安装包安装到新的空目录。
 

@@ -28,19 +28,19 @@
 
 ## 当前下载
 
-**Mintaria 6.2.1 正式版（NVIDIA 显卡版）**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包](https://pan.quark.cn/s/fbede5d207ed) · [GitHub 6 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v6.2.1)。
+**Mintaria 7.0.0 正式版（NVIDIA 显卡版）**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包](https://pan.quark.cn/s/a0b0b17a9cd2) · [GitHub 6 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v7.0.0)。
 
 **AMD/Intel 显卡版 Beta（AMD 6.2.1 测试版）**：[夸克下载](https://pan.quark.cn/s/e9ab18b65dcd) · [GitHub 3 分卷预发布](https://github.com/ysuhao/Mintaria/releases/tag/v6.2.1-amd)。DirectML 推理，适用于支持 DirectX 12 的 AMD 和 Intel 显卡；尚未在 AMD/Intel 显卡上完成验证，请安装到新的空目录，不要覆盖 NVIDIA 版。
 
-Windows x64 / CUDA 12.8。完整包 3,121,694,479 字节：夸克下载 `萌音安装包-6.2.1.exe`（GitHub 分卷合并后为 `Mintaria Setup.exe`，同一文件），双击选择新的空目录安装，默认创建桌面快捷方式。请保留旧版目录，无需另装 Python。本版没有升级补丁，所有旧版本都请下载完整安装包安装到新的空目录。
+Windows x64 / CUDA 12.8。完整包 3,121,887,120 字节：夸克下载 `萌音安装包-7.0.0.exe`（GitHub 分卷合并后为 `Mintaria Setup.exe`，同一文件），双击选择新的空目录安装，默认创建桌面快捷方式。请保留旧版目录，无需另装 Python。本版没有升级补丁，所有旧版本都请下载完整安装包安装到新的空目录。
 
-本版让网络短暂中断时不再停止变声（账号检查改为每 10 分钟一次，最长容忍 1 小时），免费音色启动过一次后不用联网，模型偶尔输出异常声音时只静音那一小段；免费用户的联系客服显示会员服务说明。运行环境沿用 5.1.5。
+本版新增「高音保护」（喊叫、唱高音时声音不再变成气声或没声音，可在设置里选关闭 / 标准 / 强力），齿轮按钮改为全新的「设置」面板、界面图标全面更新；邀请码改为 Pro 和官方码送 24 小时 Plus；按天购买的 Pro 到期后会按时停用本机 .pth 音色。运行环境沿用 5.1.5。
 
 默认附带风妈；其他模型在软件内下载后导入。GitHub 用户请下载全部 6 个 `Mintaria.Setup.exe.001`–`.006` 分卷与 `Merge-Mintaria-Setup.cmd`，合并并校验后运行安装包。
 
-SHA256：`d617f1baf287bbd862e69d2b65fb1c281f48e6a749147332236914035cfa3bab`
+SHA256：`c3dc46988abdc7e0969e71b6334c2eaa5ee7c8a182b31e3ddc565b59805506c1`
 
-Google Drive 镜像暂未同步 6.2.1。历史发行说明保留供查阅。
+Google Drive 镜像暂未同步 7.0.0。历史发行说明保留供查阅。
 
 ## 常见问题
 

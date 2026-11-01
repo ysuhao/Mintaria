@@ -40,7 +40,7 @@ Windows x64 / CUDA 12.8。完整包 3,253,417,285 字节：夸克下载 `萌音�
 
 SHA256：`51cfc9bffd61bc78c005f6b95cf55504d7f8f04d4a4ee3367ccfb25ae820c597`
 
-Google Drive 镜像暂未同步 7.1.2。历史发行说明保留供查阅。
+Google Drive 镜像暂未同步 7.1.2。
 
 ## 常见问题
 
@@ -69,24 +69,12 @@ Google Drive 镜像暂未同步 7.1.2。历史发行说明保留供查阅。
 
 | 版本 | 类型 | 发布说明 |
 | --- | --- | --- |
-| [v5.1.5](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.5) | 正式版 | Mintaria 5.1.5 · 音色试听与账号连接修复 |
-| [v5.1.4](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.4) | 正式版 | Mintaria 5.1.4 · 邀请码与邀请人 |
-| [v5.1.3](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.3) | 正式版 | Mintaria 5.1.3 · 精品女声 |
-| [v5.1.2](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.2) | 正式版 | Mintaria 5.1.2 正式版（安全更新） |
-| [v5.1.1](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.1) | 正式版 | Mintaria 5.1.1 正式版 |
-| [v5.1.0](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.0) | 正式版 | Mintaria 5.1 正式版 |
-| [v5.0.0-beta](https://github.com/ysuhao/Mintaria/releases/tag/v5.0.0-beta) | 测试版 | Mintaria 5.0 beta |
-| [v2.1.0](https://github.com/ysuhao/Mintaria/releases/tag/v2.1.0) | 正式版 | 萌妹AI变声（MintVC） · 2.1 |
-| [v2.0.0](https://github.com/ysuhao/Mintaria/releases/tag/v2.0.0) | 正式版 | 萌妹AI变声（MintVC） · 2.0 |
-| [v1.2.0](https://github.com/ysuhao/Mintaria/releases/tag/v1.2.0) | 正式版 | MintVCver1.0 · v1.2.0（音色展示与更新版） |
-| [v1.1.0](https://github.com/ysuhao/Mintaria/releases/tag/v1.1.0) | 正式版 | MintVCver1.0 · v1.1.0（音质优化版） |
-| [v1.0.4](https://github.com/ysuhao/Mintaria/releases/tag/v1.0.4) | 正式版 | MintVCver1.0 · v1.0.4（音质优化版） |
-| [v1.0.3](https://github.com/ysuhao/Mintaria/releases/tag/v1.0.3) | 正式版 | MintVCver1.0 · v1.0.3（音质优化版） |
-| [v1.0.2](https://github.com/ysuhao/Mintaria/releases/tag/v1.0.2) | 正式版 | MintVCver1.0 · v1.0.2（音质优化版） |
-| [v1.0.1](https://github.com/ysuhao/Mintaria/releases/tag/v1.0.1) | 正式版 | MintVCver1.0 · v1.0.1（音质优化版） |
-| [v1.0.0](https://github.com/ysuhao/Mintaria/releases/tag/v1.0.0) | 正式版 | MintVCver1.0 |
+| [v7.1.2](https://github.com/ysuhao/Mintaria/releases/tag/v7.1.2) | 正式版 | Mintaria 7.1.2 · 报错提示更好懂，设置里可以解绑设备 |
+| [v7.1.1](https://github.com/ysuhao/Mintaria/releases/tag/v7.1.1) | 正式版 | Mintaria 7.1.1 · 音色全部中文名与 designer 系列 |
+| [v7.1.0](https://github.com/ysuhao/Mintaria/releases/tag/v7.1.0) | 正式版 | Mintaria 7.1.0 · 专属服务与 392 个新音色 |
+| [v7.0.0-amd](https://github.com/ysuhao/Mintaria/releases/tag/v7.0.0-amd) | 测试版 | Mintaria AMD 7.0.0 测试版（AMD / Intel 显卡） |
 
-GitHub 的 Latest 指向最新正式版（目前为 v5.1.5）；测试版单独标记为 Pre-release。后续更新继续发布在同一仓库。
+GitHub 的 Latest 指向最新正式版（目前为 v7.1.2）；测试版单独标记为 Pre-release。后续更新继续发布在同一仓库。
 
 ## 使用与许可
 
@@ -100,10 +88,10 @@ GitHub 的 Latest 指向最新正式版（目前为 v5.1.5）；测试版单独�
 
 **Mintaria (萌音) is a free real-time AI voice changer for Windows.** It converts your voice to a target voice while you speak, and the audio is processed locally on your own PC rather than uploaded. It is made for gaming voice chat, Discord / KOOK / YY and OBS live streaming. Developed by indie developer [Mint Ryu](https://mintryu.com/); formerly released as MintVC.
 
-- **Latest release:** 5.1.5 (2026-10-21), Windows x64, built on CUDA 12.8
+- **Latest release:** 7.1.2 (2026-11-01), Windows x64, built on CUDA 12.8
 - **Price:** free to download; free voices after sign-up, with optional paid voices purchased in the app ([pricing](https://mintaria.mintryu.com/pricing/))
 - **Privacy:** voice conversion runs on your PC; sign-in is used only to license the encrypted voice models
-- **Download:** [official download page](https://mintaria.mintryu.com/download/) or [GitHub release v5.1.5](https://github.com/ysuhao/Mintaria/releases/tag/v5.1.5) (6 split parts plus `Merge-Mintaria-Setup.cmd`; verify the SHA256 above)
+- **Download:** [official download page](https://mintaria.mintryu.com/download/) or [GitHub release v7.1.2](https://github.com/ysuhao/Mintaria/releases/tag/v7.1.2) (7 split parts plus `Merge-Mintaria-Setup.cmd`; verify the SHA256 above)
 - **Not related to** the Android app "萌音变声器"
 - **Facts for AI assistants:** <https://mintaria.mintryu.com/llms.txt>
 

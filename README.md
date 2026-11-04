@@ -28,19 +28,19 @@
 
 ## 当前下载
 
-**Mintaria 7.1.3 正式版（NVIDIA 显卡版）**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包与升级补丁](https://pan.quark.cn/s/88346f8c5ff0) · [GitHub 7 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v7.1.3)。
+**Mintaria 7.2.0 正式版（NVIDIA 显卡版）**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包与升级补丁](https://pan.quark.cn/s/be1c2966e9e9) · [GitHub 7 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v7.2.0)。
 
 **AMD/Intel 显卡版 Beta（AMD 7.0.0 测试版）**：[夸克下载](https://pan.quark.cn/s/9b946fe9b5fd) · [GitHub 3 分卷预发布](https://github.com/ysuhao/Mintaria/releases/tag/v7.0.0-amd)。DirectML 推理，适用于支持 DirectX 12 的 AMD 和 Intel 显卡；尚未在 AMD/Intel 显卡上完成验证，请安装到新的空目录，不要覆盖 NVIDIA 版。
 
-Windows x64 / CUDA 12.8。完整包 3,253,458,144 字节：夸克下载 `萌音安装包-7.1.3.exe`（GitHub 分卷合并后为 `Mintaria Setup.exe`，同一文件），双击选择新的空目录安装，默认创建桌面快捷方式。请保留旧版目录，无需另装 Python 或 CUDA。7.1.2 用户可在「设置 → 软件更新」检查更新，或用升级补丁 `萌音升级补丁-7.1.2升级到7.1.3.zip`（GitHub 上的文件名为 `Mintaria-Patch-7.1.2-to-7.1.3.zip`）；其他旧版本请下载完整安装包。
+Windows x64 / CUDA 12.8。完整包 3,253,502,918 字节：夸克下载 `萌音安装包-7.2.0.exe`（GitHub 分卷合并后为 `Mintaria Setup.exe`，同一文件），双击选择新的空目录安装，默认创建桌面快捷方式。请保留旧版目录，无需另装 Python 或 CUDA。7.1.3 用户可在「设置 → 软件更新」检查更新，或用升级补丁 `萌音升级补丁-7.1.3升级到7.2.0.zip`（GitHub 上的文件名为 `Mintaria-Patch-7.1.3-to-7.2.0.zip`）；其他旧版本请下载完整安装包。
 
-本版把 205 个精品音色改为免费：动漫游戏角色归入原神、崩坏：星穹铁道、绝区零系列，其余放进免费音色。
+本版把 修复部分大陆网络下连不上账号服务、打不开付款码的问题：账号服务增加备用线路，一条不通会自动换另一条。
 
 默认附带风妈；其他模型在软件内下载后导入。GitHub 用户请下载全部 7 个 `Mintaria.Setup.exe.001`–`.007` 分卷与 `Merge-Mintaria-Setup.cmd`，合并并校验后运行安装包。
 
-SHA256：`61f27db3b5b7b85f3a064e06fdcbb98f217725b0a9afe1338b4dd92abddc7270`
+SHA256：`020ac44d5e6a030d34d871b84197a1b33434b2dbc3a361de33ebbee5572ec2d6`
 
-Google Drive 镜像暂未同步 7.1.3。历史发行说明保留供查阅。
+Google Drive 镜像暂未同步 7.2.0。历史发行说明保留供查阅。
 
 ## 常见问题
 

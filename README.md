@@ -28,19 +28,19 @@
 
 ## 当前下载
 
-**Mintaria 8.0.0 正式版（NVIDIA 显卡版）**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包](https://pan.quark.cn/s/6b8c18da4da1) · [GitHub 7 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v8.0.0)。
+**Mintaria 8.1.0 正式版（NVIDIA 显卡版）**：[官网下载](https://mintaria.mintryu.com/download/) · [夸克完整安装包](https://pan.quark.cn/s/435c1865b38b) · [GitHub 7 分卷与合并工具](https://github.com/ysuhao/Mintaria/releases/tag/v8.1.0)。
 
 **AMD/Intel 显卡版 Beta（AMD 8.0.0 测试版）**：[夸克下载](https://pan.quark.cn/s/8ea018312a51) · [GitHub 3 分卷预发布](https://github.com/ysuhao/Mintaria/releases/tag/v8.0.0-amd)。DirectML 推理，适用于支持 DirectX 12 的 AMD 和 Intel 显卡；尚未在 AMD/Intel 显卡上完成验证，请安装到新的空目录，不要覆盖 NVIDIA 版。
 
-Windows x64 / CUDA 12.8。完整包 3,275,816,627 字节：夸克下载 `萌音安装包-8.0.0.exe`（GitHub 分卷合并后为 `Mintaria Setup.exe`，同一文件），双击选择新的空目录安装，默认创建桌面快捷方式。请保留旧版目录，无需另装 Python 或 CUDA。这一版只有完整安装包，没有升级补丁。
+Windows x64 / CUDA 12.8。完整包 3,270,061,094 字节：夸克下载 `萌音安装包-8.1.0.exe`（GitHub 分卷合并后为 `Mintaria Setup.exe`，同一文件），双击选择新的空目录安装，默认创建桌面快捷方式。请保留旧版目录，无需另装 Python 或 CUDA。这一版只有完整安装包，没有升级补丁。
 
-本版更新：新增「AI 翻唱」：选一首歌，用你现在的声音把它唱出来；直播时开口才出声，伴奏一直放；新增「用手机当麦克风」：手机扫一下码，就能当电脑的麦克风用（手机和电脑连同一个 Wi-Fi，第一次用时 Windows 防火墙问的话点「允许」）；注册和「使用邀请码」可以填更好记的自定义邀请码；菠菜移到「精品女声」。
+本版更新：「AI 翻唱」改名「AI 代唱」，Plus 及以上会员可用；制作过程中会员到期会自动停下；「AI降噪」换成 Mintaria 自己做的新降噪，人声更干净；麦克风声音太大时会自动压住，不再破音，并提示「麦克风太大声」；变声更跟手、更稳：软件和引擎都减少了等待时间；设置里新增可选的「高音质」，字音听得更清楚；手机麦克风、邀请码和 AI 代唱的新手提示更清楚；修复偶发的软件闪退。
 
 默认附带风妈；其他模型在软件内下载后导入。GitHub 用户请下载全部 7 个 `Mintaria.Setup.exe.001`–`.007` 分卷与 `Merge-Mintaria-Setup.cmd`，合并并校验后运行安装包。
 
-SHA256：`86d8f2202a56443c85b767f801bd5558d9ca51ae369a0b69f8b67ded38f5b6e0`
+SHA256：`8510be99915aef50e2ab54b7fb3b99eafd2d94f548acf8c2028ccdc3713aef13`
 
-Google Drive 镜像暂未同步 8.0.0。历史发行说明保留供查阅。
+Google Drive 镜像暂未同步 8.1.0。历史发行说明保留供查阅。
 
 ## 常见问题
 
